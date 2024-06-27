@@ -9,13 +9,13 @@ class whoAmI:
         'Watching documentaries'
     ]
     
-    def projects():
+    def project1():
         return {
             'name': 'Python-Based Report Automation',
             'duration': 'May 2024 - Jun 2024',
             'associated_with': 'Texas Department of Transportation',
             'details': [
-                'Developed a Python tool to automate the Right of Way Division\'s Quarterly Priority Objectives Report',
+                'Developed a Python tool to automate the ROW Division\'s Quarterly Priority Objectives Report',
                 'Used Jupyter Notebook, pandas, & python-pptx for data manipulation + presentation formatting',
                 'Authored a user guide for non-technical users',
                 'Improved accuracy & production time (5+ hour reduction in quarterly preparation by directors)'
