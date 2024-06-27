@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**goj3n/goj3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class WhoAmI:
+    user = 'Graduate Student'
+    current_study = 'MS in Business Analytics @ UT Austin'
+    hobbies = [
+        'Exploring data science analytics',
+        'Coding in Python',
+        'Reading classics',
+        'Watching documentaries'
+    ]
+    
+    def getContact():
+        return 'jgonzalez1@utexas.edu'
+    
+    def FunFact():
+        return 'I\'m an avid Formula 1 fan!'
