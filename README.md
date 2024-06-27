@@ -8,7 +8,14 @@ class whoAmI:
         'Reading classics',
         'Watching documentaries'
     ]
-    
+
+    def skills():
+        return [
+            'Python',
+            'SQL',
+            'R'
+        ]
+
     def project1():
         return {
             'name': 'Report Automation',
@@ -18,15 +25,6 @@ class whoAmI:
                 'Used Jupyter Notebook, pandas, & python-pptx for data manipulation + presentation formatting',
                 'Authored a user guide for non-technical users',
                 'Improved accuracy & production time (5+ hour reduction in quarterly preparation by directors)'
-            ]
-        }
-
-    def skills():
-        return {
-            'Languages': [
-                'Python',
-                'SQL',
-                'R'
             ]
         }
 
