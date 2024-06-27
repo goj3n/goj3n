@@ -35,4 +35,7 @@ class whoAmI:
         return 'I\'m an avid Lego builder!'
 
     def getContact():
-        return 'jgonzalez1@utexas.edu'
+        return {
+            'email': 'jgonzalez1@utexas.edu',
+            'linkedin': 'jengonza'
+        }
