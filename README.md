@@ -11,8 +11,7 @@ class whoAmI:
     
     def project1():
         return {
-            'name': 'Python-Based Report Automation',
-            'duration': 'May 2024 - Jun 2024',
+            'name': 'Report Automation',
             'associated_with': 'Texas Department of Transportation',
             'details': [
                 'Developed a Python tool to automate the ROW Division\'s Quarterly Priority Objectives Report',
