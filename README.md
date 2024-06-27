@@ -15,7 +15,7 @@ class whoAmI:
             'R'
         ]
 
-    def project():
+    def recent_project():
         return {
             'name': 'Report Automation',
             'associated_with': 'Texas Department of Transportation',
