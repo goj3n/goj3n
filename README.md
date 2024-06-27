@@ -1,10 +1,9 @@
 ```python
 class whoAmI:
-    user = 'Graduate Student'
-    current_study = 'MS in Business Analytics @ UT Austin'
+    name = 'Jennifer'
+    user_type = 'MS Business Analytics Student @ UT Austin'
     hobbies = [
         'Exploring data science analytics',
-        'Coding in Python',
         'Reading classics',
         'Watching documentaries'
     ]
